@@ -56,6 +56,6 @@ graph = {
 (11, 'G', 'F'),
 ])
 }
-
+//hi bhaskar
 print(kruskal(graph))
         
